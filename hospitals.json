@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "matha Hospital",
+    "patientCount": 180,
+    "location": "kollam"
+  },
+  {
+    "id": 2,
+    "name": "astra medicity",
+    "patientCount": 380,
+    "location": "kollam"
+  },
+  {
+    "id": 3,
+    "name": "astra Hospital",
+    "patientCount": 280,
+    "location": "tvm"
+  },
+  {
+    "id": 4,
+    "name": "kims",
+    "patientCount": 450,
+    "location": "tvm"
+  }
+]
